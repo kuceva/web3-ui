@@ -18,3 +18,4 @@
 "@ankr.com/ankr.js@^0.1.6":
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/@ankr.com/ankr.js/-/ankr.js-0.1.7.tgz#9868fc17b05324e24249a701dcdd50a8ca4f6095"
+  integrity sha512-luWNvA+EkZYmqrcAl7k6Y+RPj8DENgc6Jx8xLm7E3uPWR6QeVmRmDUgAm/O7VvZrmnjJUMCV+YHeXkuSELNaXA==
