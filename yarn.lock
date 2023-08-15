@@ -72,3 +72,5 @@
     "@babel/helpers" "^7.18.9"
     "@babel/parser" "^7.18.10"
     "@babel/template" "^7.18.10"
+    "@babel/traverse" "^7.18.10"
+    "@babel/types" "^7.18.10"
