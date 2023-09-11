@@ -108,3 +108,7 @@
   integrity sha512-WvypNAYaVh23QcjpMR24CwZY2Nz6hqdOcFdPbNpV56hL5H6KiFheO7Xm1aPdlLQ7d5emYZX7VZwPp9x3z+2opw==
   dependencies:
     "@babel/helper-annotate-as-pure" "^7.18.6"
+    regexpu-core "^5.1.0"
+
+"@babel/helper-define-polyfill-provider@^0.1.5":
+  version "0.1.5"
