@@ -120,3 +120,4 @@
     "@babel/helper-plugin-utils" "^7.13.0"
     "@babel/traverse" "^7.13.0"
     debug "^4.1.1"
+    lodash.debounce "^4.0.8"
