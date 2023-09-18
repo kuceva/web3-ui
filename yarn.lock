@@ -123,3 +123,6 @@
     lodash.debounce "^4.0.8"
     resolve "^1.14.2"
     semver "^6.1.2"
+
+"@babel/helper-environment-visitor@^7.18.9":
+  version "7.18.9"
