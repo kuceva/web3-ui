@@ -188,3 +188,4 @@
   integrity sha512-7LcpH1wnQLGrI+4v+nPp+zUvIkF9x0ddv1Hkdue10tg3gmRnLy97DXh4STiOf1qeIInyD69Qv5kKSZzKD8B/7A==
   dependencies:
     "@babel/helper-annotate-as-pure" "^7.18.6"
+    regexpu-core "^5.1.0"
