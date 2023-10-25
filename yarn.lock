@@ -203,3 +203,6 @@
     lodash.debounce "^4.0.8"
     resolve "^1.14.2"
     semver "^6.1.2"
+
+"@babel/helper-define-polyfill-provider@^0.3.2":
+  version "0.3.2"
